@@ -1,0 +1,20 @@
+1. Inicio
+2.  num , i(0- n)
+3.  limite, i(0- n)<-- 5
+4.  suma, i (0- n)<-- 0
+5.  <<Ingrese un numerogh 
+6.  >>num
+7.  Para num <= limite hasta
+8.      Si num MOD 2 == 0 Entonces
+9.         <<num
+10.         suma = suma + numero
+11.     Fin si
+12.  Fin Hasta
+13.  <<"La suma de los numeros pares es:" +suma
+14. Fin
+
+
+   
+      
+
+   
